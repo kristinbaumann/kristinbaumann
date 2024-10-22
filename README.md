@@ -1,6 +1,6 @@
 Hi  👋
 
-I am **freelance Senior Data Visualization & Frontend Developer** coding custom engaging, interactive data visualizations and website. Mostly with **D3.js**, **React**, **Svelte**, and more. 
+I am a **freelance Senior Data Visualization & Frontend Developer** coding custom engaging, interactive data visualizations and websites. Mostly with **D3.js**, **React**, **Svelte**, and more. 
 
 Based in Berlin in Germany, I work with agencies and clients remotely from all over the world. 
 
