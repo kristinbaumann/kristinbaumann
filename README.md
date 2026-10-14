@@ -12,5 +12,5 @@ Find out more and get in touch:<br/>
 [Website](https://www.kristin-baumann.com/) | [LinkedIn](https://www.linkedin.com/in/kristinbaumann/) | [Email](mailto:hello@kristin-baumann.com)
 
 <a href="https://www.kristin-baumann.com/">
-  <img src="./projects.png" alt="Screenshot of a collection of project cover images" />
+  <img src="./projects_mosaic_2026_10.png" alt="Screenshot of a collection of project cover images" />
 </a>
